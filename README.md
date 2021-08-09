@@ -1,4 +1,5 @@
-# <a href= "https://ceciliacodes.github.io/customizable-landing-page/ target= "_blank">customizable-landing-page</a>
+# customizable-landing-page
+https://ceciliacodes.github.io/customizable-landing-page/
 
 8.9.21:
 This is a web dev project that will use all of my current skills: HTML, CSS, JavaScript, PHP, APIs, and more, if I happen to pick them up while working on this project.
