@@ -1,5 +1,0 @@
-//Definitions
-
-//Event Listeners
-
-//Functions
